@@ -1,0 +1,15 @@
+{
+  "name": "mesperanza-ntp",
+  "version": "0.1.0",
+  "author": "mesperanza",
+  "summary": "Modulo para manejo del servicio NTP",
+  "license": "Apache-2.0",
+  "source": "git@github.com:mesperanza/puppet-ntp.git",
+  "project_page": "https://github.com/mesperanza/puppet-ntp",
+  "issues_url": "https://github.com/mesperanza/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
